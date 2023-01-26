@@ -36,10 +36,9 @@ print("Coefficient:",regr.coef_)
 print("Intercept:",regr.intercept_)
 predictedCO2=regr.predict([[3300,1300]])
 print("Predicted CO2 for the corresponding weight and volume",predictedCO2)
-```
-## Output:
 
-### Insert your output
+## Output
+![Screenshot from 2023-01-26 10-36-48](https://user-images.githubusercontent.com/121117266/214776277-98e85494-fbbe-4205-b6b9-6640706a7feb.png)
 
 <br>
 
